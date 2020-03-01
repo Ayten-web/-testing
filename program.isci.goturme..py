@@ -1,7 +1,6 @@
 print("magazaya ise qebul ")
 print('Melumatlariniz duzgun daxil etmeyi unutmayin!')
-ad= (input('adinizi daxil edin:'))
-soyad= input('soyadinizi daxil edin:')
+ad_soyad = (input('adinizi ve soyadinizi daxil edin:'))
 yasadigi_yer = input('yasadiginiz yeri daxil edin:')
 
 if yasadigi_yer == 'baki':
